@@ -1,0 +1,44 @@
+[
+{
+    "team1":"liverpool",
+    "team2":"arsenal",
+    "team1image":"../assets/JsonPic/upcomin/liverpool.png",
+    "team2image":"../assets/JsonPic/upcomin/arsenal.png",
+    "savedgoal":8,
+    "highscoreplayer":"Roanldo",
+    "mostassist":"messi",
+    "bestdefence":"neymar"
+},
+{
+    "team1":"AFCBournemouth",
+    "team2":"Aston",
+    "team1image":"../assets/JsonPic/upcomin/AFCBournemouth.png",
+    "team2image":"../assets/JsonPic/upcomin/aston.png",
+    "savedgoal":8,
+    "highscoreplayer":"Xavi",
+    "mostassist":"Andres Inestia",
+    "bestdefence":"Andrea Pirlo"
+},
+{
+    "team1":"Brentford",
+    "team2":"Luton Town",
+    "team1image":"../assets/JsonPic/upcomin/brentford.png",
+    "team2image":"../assets/JsonPic/upcomin/lutontown.png",
+    "savedgoal":8,
+    "highscoreplayer":"Yaya Tour",
+    "mostassist":"Xabi",
+    "bestdefence":"neymar"
+},
+{
+    "team1":"Manchester City",
+    "team2":"Manchester United",
+    "team1image":"../assets/JsonPic/upcomin/manchestercity.png",
+    "team2image":"../assets/JsonPic/upcomin/manchesterunited.png",
+    "savedgoal":8,
+    "highscoreplayer":"Mbappe",
+    "mostassist":"David Silva",
+    "bestdefence":"neymar"
+}
+
+
+]

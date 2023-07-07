@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Aston",
+        "teamlogo": "../assets/JsonPic/upcomin/aston.png",
+        "Win": 7,
+        "losses": 2,
+        "draw": 4,
+        "goal": 3,
+        "rating":4.5
+    },
+    {
+        "name": "manchester united",
+        "teamlogo": "../assets/JsonPic/upcomin/manchesterunited.png",
+        "Win": 4,
+        "losses": 3,
+        "draw": 4,
+        "goal": 2,
+        "rating":4.7
+    },
+    {
+        "name": "manchester city",
+        "teamlogo": "../assets/JsonPic/upcomin/manchestercity.png",
+        "Win": 8,
+        "losses": 6,
+        "draw": 5,
+        "goal": 2,
+        "rating":4.2
+    },
+    {
+        "name": "luton town",
+        "teamlogo": "../assets/JsonPic/upcomin/lutontown.png",
+        "Win": 9,
+        "losses": 12,
+        "draw": 6,
+        "goal": 2,
+        "rating":4.4
+    },
+    {
+        "name": "liverpool",
+        "teamlogo": "../assets/JsonPic/upcomin/liverpool.png",
+        "Win": 2,
+        "losses":6,
+        "draw": 5,
+        "goal": 5,
+        "rating":3.7
+    },
+    {
+        "name": "brentford",
+        "teamlogo": "../assets/JsonPic/upcomin/brentford.png",
+        "Win": 9,
+        "losses": 2,
+        "draw": 5,
+        "goal": 6,
+        "rating":4.0
+    },
+    {
+        "name": "arsenal",
+        "teamlogo": "../assets/JsonPic/upcomin/arsenal.png",
+        "Win": 4,
+        "losses": 3,
+        "draw": 3,
+        "goal": 5,
+        "rating":4.2
+    },
+    {
+        "name": "AFCBournemouth",
+        "teamlogo": "../assets/JsonPic/upcomin/AFCBournemouth.png",
+        "Win": 7,
+        "losses": 2,
+        "draw": 0,
+        "goal": 5,
+        "rating":4.5
+    }
+    
+
+]

@@ -1,0 +1,47 @@
+[
+{
+    "name": "Cristian Roanldo",
+    "teamname":"liverpool",
+    "image": "../assets/Players/player.png",
+    "Assist": 2,
+    "Gameplayed": 5,
+    "goal": 6,
+    "minutes":"4.0"
+},
+{
+    "name": "Mbappe",
+    "teamname":"Luto town",
+    "image": "../assets/Players/player.png",
+    "Assist": 7,
+    "Gameplayed":5,
+    "goal": 9,
+    "minutes":"14:00"
+},
+{
+    "name": "leonel Messi",
+    "teamname":"Brentford",
+    "image": "../assets/Players/player.png",
+    "Assist":82,
+    "Gameplayed":9,
+    "goal": 8,
+    "minutes":"30:15"
+},
+{
+    "name": "Xavi",
+    "teamname":"liverpool",
+    "image": "../assets/Players/player.png",
+    "Assist": 6,
+    "Gameplayed": 7,
+    "goal": 4,
+    "minutes":"60:00"
+},{
+    "name": "Neymar",
+    "teamname":"liverpool",
+    "image": "../assets/Players/player.png",
+    "Assist": 2,
+    "Gameplayed": 6,
+    "goal": 2,
+    "minutes":"18:00"
+}
+
+]
