@@ -17,7 +17,7 @@ const Navbar = () => {
             </svg>
          </button>
         <a href="https://flowbite.com" className="flex ml-2 md:mr-24">
-          <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-white">Flowbite</span>
+          <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap text-white">League Organizer</span>
         </a>
       </div>
       <div className="flex items-center">
