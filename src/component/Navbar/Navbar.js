@@ -6,6 +6,8 @@ const Navbar = () => {
   return (
     <> 
 
+   {/* Navbar Section Start */}
+
 <nav className="top-0 z-50 w-full border-b  bg-[#111312] border-gray-700 fixed">
   <div className="px-3 py-3 lg:px-5 lg:pl-3">
     <div className="flex items-center justify-between">
@@ -58,6 +60,12 @@ const Navbar = () => {
   </div>
 </nav>
 
+
+   {/* Navbar Section End */}
+
+
+   {/* Sidebar Section Start  */}
+
 <aside id="logo-sidebar" className="fixed top-0 left-0 z-40 w-64 h-screen pt-20 transition-transform -translate-x-full  border-r  sm:translate-x-0 bg-[#111312] border-gray-700" aria-label="Sidebar">
    <div className="h-full px-3 pb-4 overflow-y-auto  bg-[#111312]">
       <ul className="space-y-2 font-medium">
@@ -108,6 +116,7 @@ const Navbar = () => {
    </div>
 </aside>
 
+   {/* Sidebar Section End  */}
 
 
 

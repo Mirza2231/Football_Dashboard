@@ -28,36 +28,36 @@ const Team = (props) => {
                             </div>
                             <span className='text-6xl'>{record.rating}</span>
                             <div className='flex flex-col gap-6'>
-                                {/* bar Sec 1 Start */}
+                                {/* TeamsStates Sec 1 Start */}
                                 <div className='flex justify-between'>
 
                                     <h4 className='text-[#8ea2ab] uppercase'>Win</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.Win}</h4>
                                 </div>
-                                {/* bar Sec 1 End */}
-                                {/* bar Sec 2 Start */}
+                                {/* TeamsStates Sec 1 End */}
+                                {/* TeamsStates Sec 2 Start */}
                                 <div className='flex justify-between'>
 
 
                                 <h4 className='text-[#8ea2ab] uppercase'>Goal Scored</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.goal}</h4>
                                 </div>
-                                {/* bar Sec 2 End */}
-                                {/* bar Sec 3 Start */}
+                                {/* TeamsStates Sec 2 End */}
+                                {/* TeamsStates Sec 3 Start */}
                                 <div className='flex justify-between'>
 
                                 <h4 className='text-[#8ea2ab] uppercase'>Losses</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'>{record.losses}</h4>
                                 </div>
-                                {/* bar Sec 3 End */}
-                                {/* bar Sec 4 Start */}
+                                {/* TeamsStates Sec 3 End */}
+                                {/* TeamsStates Sec 4 Start */}
                                 <div className='flex justify-between'>
 
   
                                 <h4 className='text-[#8ea2ab] uppercase'>Draw</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.draw}</h4>
                                 </div>
-                                {/* bar Sec 4 End */}
+                                {/* TeamsStates Sec 4 End */}
                             </div>
                         </div>
                     </div>

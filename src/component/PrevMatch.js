@@ -33,36 +33,36 @@ const PrevMatch = (props) => {
                             </div>
                             <span className='text-5xl'>State</span>
                             <div className='flex flex-col gap-6'>
-                                {/* bar Sec 1 Start */}
+                                {/* PrevMatchStates Sec 1 Start */}
                                 <div className='flex justify-between'>
 
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'>how many goals did the goal keeper save:</h6>
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'> {record.savedgoal}</h6>
                                 </div>
-                                {/* bar Sec 1 End */}
-                                {/* bar Sec 2 Start */}
+                                {/* PrevMatchStates Sec 1 End */}
+                                {/* PrevMatchStates Sec 2 Start */}
                                 <div className='flex justify-between'>
 
                                     <h6 className='text-[#8ea2ab] tracking-widest  text-xs uppercase'>which player scored the highest</h6>
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'> {record.highscoreplayer}</h6>
                                 </div>  
-                                {/* bar Sec 2 End */}
-                                {/* bar Sec 3 Start */}
+                                {/* PrevMatchStates Sec 2 End */}
+                                {/* PrevMatchStates Sec 3 Start */}
                                 <div className='flex justify-between'>
 
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'>which player had most assists</h6>
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'> {record.mostassist}</h6>
                                 </div>
 
-                                {/* bar Sec 3 End */}
-                                {/* bar Sec 4 Start */}
+                                {/* PrevMatchStates Sec 3 End */}
+                                {/* PrevMatchStates Sec 4 Start */}
                                 <div className='flex justify-between'>
 
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'>which player had the best defence</h6>
                                     <h6 className='text-[#8ea2ab]  tracking-widest text-xs uppercase'> {record.bestdefence}</h6>
                                 </div>
 
-                                {/* bar Sec 4 End */}
+                                {/* PrevMatchStates Sec 4 End */}
                             </div>
                         </div>
                     </div>

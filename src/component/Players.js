@@ -28,36 +28,36 @@ const Players = (props) => {
                             </div>
                             <span className='text-5xl'>States</span>
                             <div className='flex flex-col gap-6'>
-                                {/* bar Sec 1 Start */}
+                                {/* States Sec 1 Start */}
                                 <div className='flex justify-between'>
 
                                     <h4 className='text-[#8ea2ab] uppercase'>Minutes Played</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.minutes}</h4>
                                 </div>
-                                {/* bar Sec 1 End */}
-                                {/* bar Sec 2 Start */}
+                                {/* States Sec 1 End */}
+                                {/* States Sec 2 Start */}
                                 <div className='flex justify-between'>
 
 
                                 <h4 className='text-[#8ea2ab] uppercase'>Goal Scored</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.goal}</h4>
                                 </div>
-                                {/* bar Sec 2 End */}
-                                {/* bar Sec 3 Start */}
+                                {/* States Sec 2 End */}
+                                {/* States Sec 3 Start */}
                                 <div className='flex justify-between'>
 
                                 <h4 className='text-[#8ea2ab] uppercase'>Assist</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.Assist}</h4>
                                 </div>
-                                {/* bar Sec 3 End */}
-                                {/* bar Sec 4 Start */}
+                                {/* States Sec 3 End */}
+                                {/* States Sec 4 Start */}
                                 <div className='flex justify-between'>
 
   
                                 <h4 className='text-[#8ea2ab] uppercase'>Game Played</h4>
                                     <h4 className='text-[#8ea2ab] uppercase'> {record.Gameplayed}</h4>
                                 </div>
-                                {/* bar Sec 4 End */}
+                                {/* States Sec 4 End */}
                             </div>
                         </div>
                     </div>
